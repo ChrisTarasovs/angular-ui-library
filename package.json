@@ -1,8 +1,8 @@
 {
-  "name": "angular-libraries-example",
+  "name": "ng-universal-ui-kit",
   "version": "1.0.0",
-  "description": "Example of bundling Angular libraries",
-  "author": "Jason Aden",
+  "description": "Angular libraries",
+  "author": "SuperMan",
   "license": "MIT",
   "devDependencies": {
     "@angular/core": "^4.0.1",
