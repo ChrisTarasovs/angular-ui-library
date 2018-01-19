@@ -1,8 +1,8 @@
 {
-  "name": "ng-universal-ui-kit",
+  "name": "angular-ui-kit",
   "version": "1.0.0",
   "description": "Angular libraries",
-  "author": "SuperMan",
+  "author": "ChrisTarasovs",
   "license": "MIT",
   "devDependencies": {
     "@angular/core": "^4.0.1",
